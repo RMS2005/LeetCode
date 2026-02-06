@@ -28,6 +28,10 @@ Constraints:
 
 -231 <= x <= 231 - 1*/
 
+#include <string>
+#include <climits>
+using namespace std;    
+
 class Solution {
 public:
     int reverse(int x) {
