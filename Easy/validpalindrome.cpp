@@ -31,6 +31,9 @@ s consists only of printable ASCII characters.
 
 */
 
+#include <string>
+using namespace std;
+
 class Solution {
 public:
     bool isPalindrome(string s) {
